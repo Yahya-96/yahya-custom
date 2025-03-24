@@ -1,0 +1,23 @@
+{
+  "name": "yahya-custom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahya-96/yahya-custom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yahya-96/yahya-custom/issues"
+  },
+  "homepage": "https://github.com/Yahya-96/yahya-custom#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.11.1"
+  }
+}
